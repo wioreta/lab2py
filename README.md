@@ -47,4 +47,4 @@ print("Hasil penjumlahan a+b=",a + b )
 ![Alt text](<image 1.jpeg>)
 
 
-# TERIMA KASIH
+# Terima Kasih
